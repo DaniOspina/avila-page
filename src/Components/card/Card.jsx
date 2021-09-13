@@ -1,4 +1,5 @@
 import './Card';
+import  './Card.css'
 import {connect} from 'react-redux';
 import {addToCart} from '../../redux/Shopping/shopping-action'
 
