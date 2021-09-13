@@ -1,0 +1,14 @@
+.footer{
+    position:fixed;
+    bottom:0;
+    background-color: rgba(255, 0, 0, 0.849);
+    width: 100%;
+}
+.link{
+    margin-left: 30%;
+    font-size: 30px;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+}
